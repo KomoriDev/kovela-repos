@@ -1,2 +1,2 @@
-# kovela-watermelon
-AstroBox resource of 合成大西瓜
+# Kovela Repos
+AstroBox resource of Kovela

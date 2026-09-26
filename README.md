@@ -1,2 +1,2 @@
-# Kovela Repos
-AstroBox resource of Kovela
+# Kovela Watermelon
+AstroBox resource of Watermelon
